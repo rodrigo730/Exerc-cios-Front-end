@@ -1,0 +1,23 @@
+hr + p{
+    color: red;
+}
+hr ~ p{
+    font-size: 20px;
+}
+footer a:hover{
+    color: magenta;
+}
+form input{
+    box-shadow: '0 0 0 3px orange';
+}
+
+input[type="checkbox"]:checked {
+    box-shadow: 0 0 0 3px orange;
+}
+p::first-letter{
+    color: blue;
+    font-size: 30px;
+}
+.blah li:nth-of-type(2n){
+    background-color: magenta;
+}

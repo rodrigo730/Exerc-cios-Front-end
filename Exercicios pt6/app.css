@@ -1,0 +1,24 @@
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.dvh2{
+    font-style: italic;
+    font-size: 50px;
+    color: #800090;
+   
+}
+.dvh3{
+    font-family:indie flower;
+    font-size: 35px;
+    color: rgb(255,120,120);
+}
+p{
+    font-family: Helvetica;
+    font-weight:100;
+    font-size: 40px;
+    letter-spacing: 10px;
+    line-height: 2;
+}

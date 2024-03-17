@@ -1,0 +1,32 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    font-weight: 100;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+#leafy{
+    text-decoration: underline;
+    text-decoration-line: #1d6e09 ;
+    color: #1d6e09;
+}
+#leafy:hover{
+    color:blue;
+}
+.latin{
+    font-style: italic;
+}
+h2{
+    text-transform: uppercase;
+}
+a{
+    text-decoration-line: none;
+    color: orange;
+}
+li{
+    list-style: square;
+}

@@ -1,0 +1,98 @@
+body {
+    font-family: mukta, sans-serif;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    letter-spacing: 0.5;
+}
+
+.start {
+    max-width: 900px;
+    padding: 32px;
+    margin: 0 auto;
+}
+
+.info {
+    font-weight: bold;
+    font-size: 14px;
+    font-family: bitter, serif;
+    text-align: center;
+    letter-spacing: 1.5px;
+}
+
+.info span {
+    color: orange;
+}
+
+.headline {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 0px;
+    margin: 40px 0px 40px 0px;
+}
+
+.headline span {
+    color: orange;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 500;
+    font-family: bitter, serif;
+}
+h1{
+    font-size: 80px;
+    letter-spacing: -1.5px;
+    font-weight: 400;
+}
+h2 {
+    font-size: 50px;
+    letter-spacing: -0.5px;
+}
+h3{
+    font-size: 38px;
+    letter-spacing: 0.25px;
+}
+h4{
+    font-size: 30px;
+    letter-spacing: 0px;
+}
+h5{
+    font-size: 24px;
+    letter-spacing: 0.25px;
+}
+h6{
+    font-size: 20px;
+    letter-spacing: 0.25px;
+}
+blockquote {
+    font-style: italic;
+    font-size: 14px;
+    padding-left: 16px;
+    border-left: 2px solid orange;
+    margin: 32px 0px 32px 32px;
+}
+
+blockquote cite {
+    display: block;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.new h3 {
+    font-family: bitter,serif;
+    text-transform:capitalize;
+    font-weight: 500;
+    font-size: 35px;    
+}
+.new p{
+    font-size: 15px;
+}
+.new span{
+    color: orange;
+    text-transform: capitalize;
+}
