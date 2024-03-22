@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    border: 0;
+    font-family: "forum", serif;    
+}
+.lay1{
+    background-color:#f08e80;
+    width: 100vw;
+    height: 90vh;
+    color: white;
+    border: 0;
+    margin: 0;
+    display: flexbox;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 24px 32px;
+}
+.links a{
+    color: white;
+    text-decoration: none;
+    margin-right: 16px;
+    font-size: 1.3rem;
+}
+.navbar p{
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+}
+.navbar button{
+    background-color: white;
+    color:#f08e80 ;
+    border: none white; 
+    padding: 16px 24px;
+    text-decoration: none;
+}
+.navbar button:hover{
+    opacity: 0.8;
+}
